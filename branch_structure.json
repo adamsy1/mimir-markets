@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-411-feat-ui-show-an-unread-indicator-for-vs-chat",
+    "feat/issue-413-feat-agents-make-research-budgets-survive",
+    "feat/issue-417-docs-api-add-an-end-to-end-agent-sdk-example",
+    "fix/issue-425-refactor-ui-split-the-vs-detail-page-into",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-411-feat-ui-show-an-unread-indicator-for-vs-chat": "main",
+    "feat/issue-413-feat-agents-make-research-budgets-survive": "main",
+    "feat/issue-417-docs-api-add-an-end-to-end-agent-sdk-example": "main",
+    "fix/issue-425-refactor-ui-split-the-vs-detail-page-into": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-411-feat-ui-show-an-unread-indicator-for-vs-chat",
+    "feat/issue-413-feat-agents-make-research-budgets-survive",
+    "feat/issue-417-docs-api-add-an-end-to-end-agent-sdk-example",
+    "fix/issue-425-refactor-ui-split-the-vs-detail-page-into",
+    "origin"
+  ]
+}
